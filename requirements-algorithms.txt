@@ -1,0 +1,2 @@
+# Backward-compatible entry point; requirements.txt now includes all algorithms.
+-r requirements.txt

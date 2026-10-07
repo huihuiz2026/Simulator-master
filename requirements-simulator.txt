@@ -1,0 +1,2 @@
+# Only the city simulator, no-policy baseline and artificial-data example.
+numpy>=1.26,<3

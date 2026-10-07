@@ -1,0 +1,7 @@
+# Full project dependencies: simulator + IDQN, cDQN and cA2C.
+# Recommended interpreter: Python 3.12 (also target Python 3.10-3.11).
+# TensorFlow's transitive dependencies (Keras, TensorBoard, etc.) are installed by pip.
+-r requirements-simulator.txt
+
+# Verified with Python 3.12 using the project's compatibility tests.
+tensorflow==2.20.0
